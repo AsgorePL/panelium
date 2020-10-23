@@ -1,5 +1,5 @@
 @echo off 
-title PANELIUM NEVER EDITION 
+title PANELIUM  
 :menu
 echo                                        /======================================\
 echo                                                   WITAMY W PANELIUM 
@@ -17,7 +17,7 @@ echo                                            6. Twoje IP
 echo                                            7. O programie
 echo                                            8. Wyloguj sie
 echo                                         --------------------------------------
-echo                                                  \ ©AsgorePL 2020./                                                  
+echo                                                  \ Å AsgorePL 2020./                                                  
 
 set /p Wybierz cyfre, aby kontynuowac=
     if %Wybierz cyfre, aby kontynuowac%==1 goto :wk
